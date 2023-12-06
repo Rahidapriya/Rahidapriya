@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=6c09b952r0dsxalnwnju49th3jxauxikeremm618bs3dct7q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="800" height="400">
+<img src="https://media2.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=6c09b952r0dsxalnwnju49th3jxauxikeremm618bs3dct7q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="300">
 
 # 💫 About Me:
 👩‍💻 Pursuing BSc. in CSE<br>🎨 Love crafting beautiful websites<br>💻 Enthusiastic about coding
