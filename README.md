@@ -1,8 +1,17 @@
-<img src="https://media2.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=6c09b952r0dsxalnwnju49th3jxauxikeremm618bs3dct7q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="300">
+<div style="position: relative;">
+  <img src="https://media2.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=6c09b952r0dsxalnwnju49th3jxauxikeremm618bs3dct7q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="300" style="object-fit: cover;">
 
-# 💫 About Me:
-👩‍💻 Pursuing BSc. in CSE<br>🎨 Love crafting beautiful websites<br>💻 Enthusiastic about coding
-
+  <!-- Overlay Text -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
+    <h1>👋 Hello, I'm Rahida Priya!</h1>
+    <p>Welcome to my GitHub profile! I'm currently pursuing a BSc. in Computer Science and am passionate about crafting beautiful websites. I love coding and exploring various technologies. Here's a bit about me:</p>
+    <ul>
+      <li>👩‍💻 Pursuing BSc. in CSE</li>
+      <li>🎨 Love crafting beautiful websites</li>
+      <li>💻 Enthusiastic about coding</li>
+    </ul>
+  </div>
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rahidapriya)
