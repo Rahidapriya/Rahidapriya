@@ -3,7 +3,7 @@
 
   <!-- Overlay Text -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
-    <h1>👋 Hello, I'm Rahida Priya!</h1>
+    <h1>👋 Hello, I'm Naza Rahida Siddiqe Priya!</h1>
     <p>Welcome to my GitHub profile! I'm currently pursuing a BSc. in Computer Science and am passionate about crafting beautiful websites. I love coding and exploring various technologies. Here's a bit about me:</p>
     <ul>
       <li>👩‍💻 Pursuing BSc. in CSE</li>
