@@ -1,14 +1,15 @@
 <div style="position: relative;">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="1000" height="300" style="object-fit: cover;">
+  <img src="https://i.ibb.co/HzDKhBV/gitprofile.png" width="1000" height="400" style="object-fit: cover;">
 
   <!-- Overlay Text -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
     <h1>👋 Hello, I'm Naza Rahida Siddiqe Priya!</h1>
-    <p>Welcome to my GitHub profile! I'm currently pursuing a BSc. in Computer Science and am passionate about crafting beautiful websites. I love coding and exploring various technologies. Here's a bit about me:</p>
+    <p>Welcome to my GitHub profile! I'm a passionate React frontend web developer who enjoys bringing imaginative concepts to life through the art of coding.As a dedicated frontend web developer, my expertise lies in utilizing the power of React to build dynamic and engaging user interfaces. Here's a bit about me:</p>
     <ul>
       <li>👩‍💻 Pursuing BSc. in CSE</li>
       <li>🎨 Love crafting beautiful websites</li>
       <li>💻 Enthusiastic about coding</li>
+      <li>💻 React Developer</li>
     </ul>
   </div>
 </div>
