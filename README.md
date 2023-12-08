@@ -1,5 +1,5 @@
 <div style="position: relative;">
-  <img src="https://media2.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=6c09b952r0dsxalnwnju49th3jxauxikeremm618bs3dct7q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="300" style="object-fit: cover;">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="1000" height="300" style="object-fit: cover;">
 
   <!-- Overlay Text -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
